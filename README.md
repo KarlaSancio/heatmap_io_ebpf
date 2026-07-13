@@ -68,7 +68,7 @@ O arquivo `relatorio_heatmap.html` estará na raiz do projeto.
 
 ## Link para a Demonstração
 O funcionamento da aplicação em tempo real foi registrada no link abaixo:
-* [Video: Demonstração do Gráfico e Gerador de Tráfego]((https://youtu.be/yDieDcDArsU))
+* [Video: Demonstração do Gráfico e Gerador de Tráfego](https://youtu.be/yDieDcDArsU)
 
 
 ## Resultados e Explicacao
